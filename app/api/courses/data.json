@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Computer Science",
+    "description": "An introduction to the intellectual enterprises of computer science and the art of programming.",
+    "link": "https://www.edx.org/course/introduction-computer-science-harvardx-cs50x",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning with Python",
+    "description": "An in-depth introduction to the field of machine learning, from linear models to deep learning and reinforcement learning.",
+    "link": "https://www.edx.org/course/machine-learning-with-python-from-linear-models-to",
+    "level": "All Levels"
+  },
+  {
+    "id": 3,
+    "title": "Computer Science 101",
+    "description": "Introduction to Computer Science for a zero-prior-experience audience.",
+    "link": "https://www.edx.org/course/computer-science-101",
+    "level": "Intermediate"
+  },
+  {
+    "id": 4,
+    "title": "Blockchain Technology",
+    "description": "Learn the fundamentals of blockchain technology and how it will power the economy of tomorrow.",
+    "link": "https://www.edx.org/course/blockchain-technology",
+    "level": "Intermediate"
+  },
+  {
+    "id": 5,
+    "title": "Artificial Intelligence with Python",
+    "description": "Learn to use machine learning in Python in this introductory course on artificial intelligence.",
+    "link": "https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python",
+    "level": "Intermediate"
+  }
+]
